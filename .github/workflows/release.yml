@@ -4,10 +4,10 @@ on:
   push:
     tags:
       - "v*" # Push events to matching v*, i.e. v1.0, v20.15.10
-permissions: write-all
 
 jobs:
   build-idns:
+    permissions: read-all
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
@@ -97,6 +97,7 @@ jobs:
       #       ./target/${{ matrix.target }}/release/bundle/msi/**
 
   release-idns:
+    permissions: write-all
     needs: build-idns
     runs-on: ubuntu-latest
     steps:
@@ -172,14 +173,3 @@ jobs:
 
       - name: Query version number
         run: echo "version=${GITHUB_REF:11}" >> $GITHUB_ENV
-
-  # publish-winget:
-  #   # Action can only be run on windows
-  #   runs-on: windows-latest
-  #   needs: [build-idns, release-idns]
-  #   steps:
-  #     - uses: vedantmgoyal2009/winget-releaser@v1
-  #       with:
-  #         identifier: lencx.idns
-  #         token: ${{ secrets.WINGET_TOKEN }}
-  #         version: ${{ github.event.release.tag_name }}
