@@ -8,9 +8,12 @@ on:
     tags:
       - "v*" # 推送事件匹配 v*, 例如 v1.0，v20.15.10 等来触发工作流
 
+permissions:
+  contents: write
 # 需要运行的作业组合
 jobs:
   # 任务：创建 release 版本
+
   create-release:
     runs-on: ubuntu-latest
     outputs:
