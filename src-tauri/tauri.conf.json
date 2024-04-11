@@ -6,7 +6,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "set dns",
+    "productName": "idns",
     "version": "0.0.4"
   },
   "tauri": {
