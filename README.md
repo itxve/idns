@@ -23,6 +23,8 @@
 
 [sysdns](https://github.com/NahidaBuer/sysdns)
 
+[icon 生成器](https://favicon.io/favicon-generator)
+
 # 免责声明
 
 ### 该软件仅用于个人学习使用

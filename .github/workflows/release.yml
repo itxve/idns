@@ -35,7 +35,7 @@ jobs:
         with:
           draft: false
           tag_name: "${{ steps.get_version.outputs.VERSION }}"
-          release_name: "Live2d ${{ steps.get_version.outputs.VERSION }}"
+          release_name: "idns ${{ steps.get_version.outputs.VERSION }}"
           body: "See the assets to download this version and install."
 
   # 编译 Tauri
