@@ -1,0 +1,35 @@
+{
+  "version": "v0.0.12",
+  "notes": "fix : build fail",
+  "pub_date": "2024-04-11T09:26:42.476Z",
+  "platforms": {
+    "win64": {
+      "signature": "",
+      "url": ""
+    },
+    "linux": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakJORWRkUGtqSk80UW10YXVyaVo0OXd1SGdYU3JQbUpXdCtNVjBTOTZMREJrZlNEOHJ3dFpsNS9lZGNMSmlYNHFlMldySjRJUnNaQWpuYkltcVprRHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyODI3NTA3CWZpbGU6aWRucy5hcHAudGFyLmd6ClU3dmNmbHdnbnNGYTBCaEhid2Z4MkdnSkRIYUM1V2NrVkU3cGUralZleXZLaml1M1llTU5lL28wUzBaVTBNb2NWWkVjQnJtSDhrOUVZNXNBWmU3c0N3PT0K",
+      "url": "https://github.com/itxve/idns/releases/download/v0.0.12/idns_0.0.12_macos_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakZEWFVPNGJ3ZGtBYVl3ZXZ0eUMvNWE5Mk9kYXRyNkRIVG1ldFc0Y0VwcmphdWtLanUyTXZaWVAzMDJzZjcvdkNVbHlCWDdiWnNVaS9KVmg4eVZjVEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyODI3NTA4CWZpbGU6aWRucy5hcHAudGFyLmd6CjVTWGR1d2syRHBhOUdDa2FkUUJZY3k3aHoxa2F4VkJnMXpsVlJQQ3VzektrTTdXN1ovVytPLzFmYUxMZGlOTjhITFhJK0RUTDEvd041MSthYVhxOEJnPT0K",
+      "url": "https://github.com/itxve/idns/releases/download/v0.0.12/idns_0.0.12_macos_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakJORWRkUGtqSk80UW10YXVyaVo0OXd1SGdYU3JQbUpXdCtNVjBTOTZMREJrZlNEOHJ3dFpsNS9lZGNMSmlYNHFlMldySjRJUnNaQWpuYkltcVprRHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyODI3NTA3CWZpbGU6aWRucy5hcHAudGFyLmd6ClU3dmNmbHdnbnNGYTBCaEhid2Z4MkdnSkRIYUM1V2NrVkU3cGUralZleXZLaml1M1llTU5lL28wUzBaVTBNb2NWWkVjQnJtSDhrOUVZNXNBWmU3c0N3PT0K",
+      "url": "https://github.com/itxve/idns/releases/download/v0.0.12/idns_0.0.12_macos_x86_64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
