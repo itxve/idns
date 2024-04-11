@@ -1,5 +1,5 @@
 # Updater Log
 
-## v0.0.11
+## v0.0.12
 
 fix : build fail

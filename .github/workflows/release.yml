@@ -128,7 +128,7 @@ jobs:
   updater:
     runs-on: ubuntu-latest
     needs: release-idns
-
+    permissions: write-all
     steps:
       - uses: actions/checkout@v3
 
