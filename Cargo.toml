@@ -1,0 +1,8 @@
+[workspace]
+members = ["src-tauri"]
+
+
+[profile.release]
+lto = true
+opt-level = "z"
+strip = true

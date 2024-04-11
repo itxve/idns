@@ -78,8 +78,8 @@ jobs:
         with:
           name: artifacts-${{ matrix.arch }}
           path: |
-            ./src-tauri/target/${{ matrix.target }}/release/bundle/dmg/**.dmg
-            ./src-tauri/target/${{ matrix.target }}/release/bundle/macos/**.app.*
+            ./target/${{ matrix.target }}/release/bundle/dmg/**.dmg
+            ./target/${{ matrix.target }}/release/bundle/macos/**.app.*
 
   release-idns:
     permissions: write-all

@@ -23,9 +23,8 @@
     "preview": "vite preview",
     "tauri": "tauri",
     "tauri:dev": "RUST_BACKTRACE=full tauri dev",
-    "updater": "node scripts/updater.mjs",
-    "release": "node scripts/release.mjs",
-    "tauriversion": "node scripts/tauriversion.mjs"
+    "updater": "tr updater",
+    "release": "tr release --git"
   },
   "dependencies": {
     "@rollup/plugin-inject": "^5.0.3",
@@ -35,6 +34,7 @@
   "devDependencies": {
     "@actions/github": "^5.1.0",
     "@rollup/plugin-alias": "^4.0.2",
+    "@tauri-release/cli": "^0.2.5",
     "@tauri-apps/cli": "^1.2.0",
     "@types/node": "^18.7.10",
     "@vitejs/plugin-vue": "^3.0.1",

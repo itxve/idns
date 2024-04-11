@@ -19,6 +19,14 @@
 
 - 支持 windows,linux (没有开发环境,暂不考虑支持,欢迎提供实现)
 
+### 鸣谢
+
+<p>
+  <a href='https://github.com/lencx'>
+    <img width="32" style="border-radius: 10px;" height="32" src='https://avatars.githubusercontent.com/u/16164244?v=4' />
+  </a>
+</p>
+
 ### 相关项目
 
 [sysdns](https://github.com/NahidaBuer/sysdns)

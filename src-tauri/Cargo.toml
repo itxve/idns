@@ -33,7 +33,3 @@ default = ["custom-protocol"]
 # DO NOT remove this
 custom-protocol = ["tauri/custom-protocol"]
 
-[profile.release]
-lto = true
-opt-level = "z"
-strip = true
