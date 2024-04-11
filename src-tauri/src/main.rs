@@ -38,7 +38,7 @@ fn main() {
         None,
     ))
     .build(context)
-    .expect("error while running dns application")
+    .expect("error while running idns application")
     .run(|_app_handle, event| match event {
         tauri::RunEvent::ExitRequested { api, .. } => {
             println!("last close");

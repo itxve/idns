@@ -1,12 +1,12 @@
 [package]
 authors = ["itxve"]
-description = "A Tauri App For Ms bot"
+description = "A Tauri App For Simple Set Dns"
 edition = "2021"
 license = "MIT"
-name = "dns"
-repository = "https://github.com/itxve/dns"
+name = "idns"
+repository = "https://github.com/itxve/idns"
 rust-version = "1.65.0"
-version = "1.0.0"
+version = "0.0.1"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

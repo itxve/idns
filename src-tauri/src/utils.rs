@@ -1,4 +1,6 @@
-// https://github.com/lencx/Live2D/blob/main/src-tauri/src/utils.rs
+// https://github.com/lencx/ChatGPT/blob/main/src-tauri/src/utils.rs
+
+
 use anyhow::Result;
 use log::{error, info};
 use serde_json::Value;

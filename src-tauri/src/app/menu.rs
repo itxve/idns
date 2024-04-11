@@ -63,7 +63,7 @@ pub fn init_tray_menu() -> SystemTrayMenu {
         Err(_) => (),
     }
 
-    tray_menu = tray_menu.add_item(CustomMenuItem::new("config".to_owned(), "+ 配置"));
+    tray_menu = tray_menu.add_item(CustomMenuItem::new("config".to_owned(), "添加常用dns"));
     let mut auto_launch_menu = CustomMenuItem::new("auto_launch".to_owned(), "开机自启动");
 
     if configs.auto_launch {

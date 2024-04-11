@@ -1,7 +1,7 @@
 {
   "name": "idns",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.0",
   "type": "module",
   "license": "MIT",
   "keywords": [
@@ -9,9 +9,7 @@
     "dns",
     "desktop",
     "tauri",
-    "macos",
-    "linux",
-    "windows"
+    "macos"
   ],
   "homepage": "https://github.com/itxve/idns",
   "bugs": "https://github.com/itxve/idns/issues",
