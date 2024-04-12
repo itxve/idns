@@ -95,12 +95,9 @@
       "active": true,
       "dialog": false,
       "endpoints": [
-        "https://cdn.jsdelivr.net/gh/itxve/idns@gh-pages/install.json"
+        "https://itxve.github.io/idns/install.json"
       ],
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDhDQTI3QUU4QkZCNjUyNzYKUldSMlVyYS82SHFpakZRYmNMVm5oSnYyemVHV1BSemUxeEZTMXhJZ1ZHbnB5aTJzK2lYejFKc2oK",
-      "windows": {
-        "installMode": "passive"
-      }
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDhDQTI3QUU4QkZCNjUyNzYKUldSMlVyYS82SHFpakZRYmNMVm5oSnYyemVHV1BSemUxeEZTMXhJZ1ZHbnB5aTJzK2lYejFKc2oK"
     }
   }
 }

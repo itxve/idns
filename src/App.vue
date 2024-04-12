@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { repository, version } from "../package.json";
+import { repository } from "../package.json";
 import DNSManager from "@/components/DNSManager.vue";
 </script>
 
@@ -8,11 +8,10 @@ import DNSManager from "@/components/DNSManager.vue";
     <DNSManager />
     <footer class="footer">
       <div>
-        © 2022
+        © 2024
         <a target="_blank" :href="repository.url">
           <b>GitHub</b>
         </a>
-        V{{ version }}
       </div>
     </footer>
   </div>
