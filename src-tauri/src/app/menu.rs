@@ -131,6 +131,7 @@ pub fn tray_handler(app: &AppHandle<Wry>, event: SystemTrayEvent) {
       ha.get_item(id).set_selected(false).unwrap();
     } else {
       ha.get_item(id).set_selected(true).unwrap();
+      configs.amend(json!({"select": id})).write();
       IDNS::set_dns(id.to_owned());
     }
   }
