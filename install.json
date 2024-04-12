@@ -1,19 +1,19 @@
 {
-  "version": "v0.0.17",
-  "notes": "fix:build error",
-  "pub_date": "2024-04-12T08:33:26.088Z",
+  "version": "v0.0.18",
+  "notes": "fix: 托盘取消 dns 不生效",
+  "pub_date": "2024-04-12T09:16:40.987Z",
   "platforms": {
     "darwin": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakpkZW5CK2hCRjBmNmhDamJFbjQvSXJCVHo2UG4vZ2NhbWNxL1M2dVFyaEZzbi9PVDJ5OEdoR3NvVlJYeVdoL1Z2RCtYT2lHTGZkaVoxWDNVb3Fob1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyOTEwNjgzCWZpbGU6aWRucy5hcHAudGFyLmd6CnpTYUc4eE00MTBWQy81Z01HaDQ3NWxleHJVeGl4bnhqU1ZqZThkZk9kQ1c3NXU0RUl1aFhXcWc1WGdsdEViM01VTFFPWGthZEdYekl0SndBNmRWWUFnPT0K",
-      "url": "https://github.com/itxve/idns/releases/download/v0.0.17/idns_0.0.17_macos_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpak5lS0ppWVFCcXptSjYxYi8wVWxFU01QSUUvb0tNbHo3cTVrOWE4ZkVkZnFqbUZzcWtGVGJiUFBqNjJEWFRqeU1KRVREWDlFdXJuTWJZaVNGRFpQR3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyOTEzMTM4CWZpbGU6aWRucy5hcHAudGFyLmd6CndFaThGWnM2bzNrdHBramZDcWd6MVRpb2xuN0Q2OTZsdUJSUUtBVDR2Q2NYSjBEUUdQVE54L3EvYWNEeFRaZjhVQXhkTllPVTd2OC95VEN1Q2Rrd0FnPT0K",
+      "url": "https://github.com/itxve/idns/releases/download/v0.0.18/idns_0.0.18_macos_x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakQ0L1UrMHdWM3Qwa2w1d3NqcWJkdkk1UmZ4WkdvSGJDTTNZQjdSVEZMeHBUNXVQcjkyMHA0WStrSTBHc0xESWFaeDdhcGR4OFhUZFZLUG1nVFg0OUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyOTEwMzcyCWZpbGU6aWRucy5hcHAudGFyLmd6ClVBQzlETHF3RFNqdTcwYy9ZdTRqMTU3YlpUY2ppLzFxTDJOdkx4RTlxTzh3eWRsU0RCdHpkMGZqenNjY1hkWHVHVmV6OG5HTWc5ZVVPVVpvckdTZEJnPT0K",
-      "url": "https://github.com/itxve/idns/releases/download/v0.0.17/idns_0.0.17_macos_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakFIUkZtVU1jby9GTmo5eHRzcHBEUE43YWd2enM4UDNqaERjZ0N5eFpHWEJxVG5PS0drTDlnUXFrZkNzTHhXcWsvRU56TDIzMU9McFgvWVpWajBTSkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyOTEyOTY0CWZpbGU6aWRucy5hcHAudGFyLmd6CkJDdStidkZmYklNa3JlWmgxeE5YOEpjOUZveWxoWDRPTVpQT3ZBWnhOdlVJMU5NSXU5Z2ZqalZadkxxUkFpclBQVGpjUEtpWU55aUJGQThYQ200T0FBPT0K",
+      "url": "https://github.com/itxve/idns/releases/download/v0.0.18/idns_0.0.18_macos_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakpkZW5CK2hCRjBmNmhDamJFbjQvSXJCVHo2UG4vZ2NhbWNxL1M2dVFyaEZzbi9PVDJ5OEdoR3NvVlJYeVdoL1Z2RCtYT2lHTGZkaVoxWDNVb3Fob1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyOTEwNjgzCWZpbGU6aWRucy5hcHAudGFyLmd6CnpTYUc4eE00MTBWQy81Z01HaDQ3NWxleHJVeGl4bnhqU1ZqZThkZk9kQ1c3NXU0RUl1aFhXcWc1WGdsdEViM01VTFFPWGthZEdYekl0SndBNmRWWUFnPT0K",
-      "url": "https://github.com/itxve/idns/releases/download/v0.0.17/idns_0.0.17_macos_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpak5lS0ppWVFCcXptSjYxYi8wVWxFU01QSUUvb0tNbHo3cTVrOWE4ZkVkZnFqbUZzcWtGVGJiUFBqNjJEWFRqeU1KRVREWDlFdXJuTWJZaVNGRFpQR3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyOTEzMTM4CWZpbGU6aWRucy5hcHAudGFyLmd6CndFaThGWnM2bzNrdHBramZDcWd6MVRpb2xuN0Q2OTZsdUJSUUtBVDR2Q2NYSjBEUUdQVE54L3EvYWNEeFRaZjhVQXhkTllPVTd2OC95VEN1Q2Rrd0FnPT0K",
+      "url": "https://github.com/itxve/idns/releases/download/v0.0.18/idns_0.0.18_macos_x86_64.app.tar.gz"
     }
   }
 }
