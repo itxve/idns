@@ -1,5 +1,9 @@
 # Updater Log
 
+## v0.0.17
+
+fix:build error
+
 ## v0.0.16
 
 fix:bug 无法检查更新
