@@ -3,14 +3,6 @@
   "notes": "托盘可取消已设置的 dns",
   "pub_date": "2024-04-12T03:24:09.391Z",
   "platforms": {
-    "win64": {
-      "signature": "",
-      "url": ""
-    },
-    "linux": {
-      "signature": "",
-      "url": ""
-    },
     "darwin": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakZDdlczZ3lITmtKSnBqV0toU2xvNmNYcTdVUktMbStMUTFtRHBQYk94NUZEUkN3UC9UdTQwTjRNT09Zbm5EUVUvam9rYTJaVnNNZjYzZXpRcEFHTFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyODkxNzc2CWZpbGU6aWRucy5hcHAudGFyLmd6Cm5JcG8yUFQrVFEza1BkdjNWSVo1ZEZob29XMy81Tm9Cc0ZSeFpHaE1jK0Fra3RzYVBHRDJHVElPUE1vQ3Y2K1l2WEhSZVgra2w5d20xSjM2Q2gxc0JBPT0K",
       "url": "https://github.com/itxve/idns/releases/download/v0.0.15/idns_0.0.15_macos_x86_64.app.tar.gz"
@@ -22,14 +14,6 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakZDdlczZ3lITmtKSnBqV0toU2xvNmNYcTdVUktMbStMUTFtRHBQYk94NUZEUkN3UC9UdTQwTjRNT09Zbm5EUVUvam9rYTJaVnNNZjYzZXpRcEFHTFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyODkxNzc2CWZpbGU6aWRucy5hcHAudGFyLmd6Cm5JcG8yUFQrVFEza1BkdjNWSVo1ZEZob29XMy81Tm9Cc0ZSeFpHaE1jK0Fra3RzYVBHRDJHVElPUE1vQ3Y2K1l2WEhSZVgra2w5d20xSjM2Q2gxc0JBPT0K",
       "url": "https://github.com/itxve/idns/releases/download/v0.0.15/idns_0.0.15_macos_x86_64.app.tar.gz"
-    },
-    "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
-    "windows-x86_64": {
-      "signature": "",
-      "url": ""
     }
   }
 }
