@@ -7,7 +7,7 @@
   },
   "package": {
     "productName": "idns",
-    "version": "0.0.17"
+    "version": "0.0.18"
   },
   "tauri": {
     "allowlist": {

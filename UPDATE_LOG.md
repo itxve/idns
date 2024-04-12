@@ -1,5 +1,9 @@
 # Updater Log
 
+## v0.0.18
+
+fix: 托盘取消 dns 不生效
+
 ## v0.0.17
 
 fix:build error
