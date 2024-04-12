@@ -1,7 +1,7 @@
 {
-  "version": "v0.0.13",
-  "notes": "test : 检查更新",
-  "pub_date": "2024-04-11T10:41:41.106Z",
+  "version": "v0.0.15",
+  "notes": "托盘可取消已设置的 dns",
+  "pub_date": "2024-04-12T03:24:09.391Z",
   "platforms": {
     "win64": {
       "signature": "",
@@ -12,16 +12,16 @@
       "url": ""
     },
     "darwin": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakZRRVdvK2YvUGVpT3ltenBtN1ZzaElWY0NZQjliNVczc09sR21MM0ttY1BlK25XMzdtN1Y1eXRUOXF2TmE1dWNDTlFCN25jZklBbWJQSFNjcEFTbVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyODMxODQwCWZpbGU6aWRucy5hcHAudGFyLmd6CkhucWl2OENJcmZzZERhU0c5NzdlNzZxR2dJajhUaUxGWndIaHBMbUFLTEJaMnVSVWg1WWJmZ25MTHE2ZmcyWEEvaHdHVXRDWjFPai84V2g2UEQxakR3PT0K",
-      "url": "https://github.com/itxve/idns/releases/download/v0.0.13/idns_0.0.13_macos_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakZDdlczZ3lITmtKSnBqV0toU2xvNmNYcTdVUktMbStMUTFtRHBQYk94NUZEUkN3UC9UdTQwTjRNT09Zbm5EUVUvam9rYTJaVnNNZjYzZXpRcEFHTFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyODkxNzc2CWZpbGU6aWRucy5hcHAudGFyLmd6Cm5JcG8yUFQrVFEza1BkdjNWSVo1ZEZob29XMy81Tm9Cc0ZSeFpHaE1jK0Fra3RzYVBHRDJHVElPUE1vQ3Y2K1l2WEhSZVgra2w5d20xSjM2Q2gxc0JBPT0K",
+      "url": "https://github.com/itxve/idns/releases/download/v0.0.15/idns_0.0.15_macos_x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakRkZW44ak5sL0tPQ2xKSnh4aENHZy9LS3JPRVlVWk5UR1g5bDcxU0VCOTR0clJMTXJhN0ZRdHV1Ym55NzMxQWsxdzh0R0FORy9QRG14S0pqa3BGR2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyODMxNzgwCWZpbGU6aWRucy5hcHAudGFyLmd6CkVjZEpiR0Q5OEJxMWVtYm1YbEtvNHJtNTlTN1M4bFlZU3pieE5ScVptOWNmYjhZK0RFMU5XeVZnUUFyR3NUVnJLVzlScjlEYUQ0V1VLMzdBaFlzc0R3PT0K",
-      "url": "https://github.com/itxve/idns/releases/download/v0.0.13/idns_0.0.13_macos_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpaktxNXhlbnBlUWF4c0xjZmZtMDZYS2dMbEdYVjlQVFM0MWxYVGQyVUFTNXpUWDFtbERFZG9KU3BJMkdwZzhxalo1SWEwcitLNjVhTlI1VWIyeWlwSlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyODkyMDA2CWZpbGU6aWRucy5hcHAudGFyLmd6CnQ4QzZNMnRLZWtna0Q0cUZISk1scjJmbTlTVDhnMnJJZ2xsU2FsQWU3ZWhuRUFHWVFudG4vRk5CdURNZ1RqZUxmNkthNlVyYnhrVnVwQWt1aDNCWkFnPT0K",
+      "url": "https://github.com/itxve/idns/releases/download/v0.0.15/idns_0.0.15_macos_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakZRRVdvK2YvUGVpT3ltenBtN1ZzaElWY0NZQjliNVczc09sR21MM0ttY1BlK25XMzdtN1Y1eXRUOXF2TmE1dWNDTlFCN25jZklBbWJQSFNjcEFTbVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyODMxODQwCWZpbGU6aWRucy5hcHAudGFyLmd6CkhucWl2OENJcmZzZERhU0c5NzdlNzZxR2dJajhUaUxGWndIaHBMbUFLTEJaMnVSVWg1WWJmZ25MTHE2ZmcyWEEvaHdHVXRDWjFPai84V2g2UEQxakR3PT0K",
-      "url": "https://github.com/itxve/idns/releases/download/v0.0.13/idns_0.0.13_macos_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMlVyYS82SHFpakZDdlczZ3lITmtKSnBqV0toU2xvNmNYcTdVUktMbStMUTFtRHBQYk94NUZEUkN3UC9UdTQwTjRNT09Zbm5EUVUvam9rYTJaVnNNZjYzZXpRcEFHTFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyODkxNzc2CWZpbGU6aWRucy5hcHAudGFyLmd6Cm5JcG8yUFQrVFEza1BkdjNWSVo1ZEZob29XMy81Tm9Cc0ZSeFpHaE1jK0Fra3RzYVBHRDJHVElPUE1vQ3Y2K1l2WEhSZVgra2w5d20xSjM2Q2gxc0JBPT0K",
+      "url": "https://github.com/itxve/idns/releases/download/v0.0.15/idns_0.0.15_macos_x86_64.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "",
