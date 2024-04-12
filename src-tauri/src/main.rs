@@ -1,9 +1,8 @@
-// #![cfg_attr(
-//     all(not(debug_assertions), target_os = "windows"),
-//     windows_subsystem = "windows"
-// )]
+#![cfg_attr(
+  all(not(debug_assertions), target_os = "windows"),
+  windows_subsystem = "windows"
+)]
 
-#[cfg(debug_assertions)]
 mod app;
 mod utils;
 use app::{
