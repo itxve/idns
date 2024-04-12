@@ -124,8 +124,14 @@ pub fn tray_handler(app: &AppHandle<Wry>, event: SystemTrayEvent) {
         ha.get_item(value).set_selected(false).unwrap();
       }
     }
-    ha.get_item(id).set_selected(true).unwrap();
-    IDNS::set_dns(id.to_owned());
-    configs.amend(json!({"select":id})).write();
+
+    if configs.select == id {
+      IDNS::empty_dns();
+      configs.amend(json!({"select":""})).write();
+      ha.get_item(id).set_selected(false).unwrap();
+    } else {
+      ha.get_item(id).set_selected(true).unwrap();
+      IDNS::set_dns(id.to_owned());
+    }
   }
 }
